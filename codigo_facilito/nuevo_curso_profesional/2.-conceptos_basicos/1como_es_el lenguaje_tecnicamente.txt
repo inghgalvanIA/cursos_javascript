@@ -1,0 +1,19 @@
+-javascript es un lenguaje interpretado
+
+para ejecutar el codigo necesitaremos un programa interprete
+
+este programa interprete leera el codigo linea por linea
+
+en tiempo de ejecucion 
+
+-javascript es un lenguaje debilmente y dinamicamente tipado 
+
+tipado hace referencia a los tipos variables
+
+tipado dinamico el interprete le asignara un valor a la variables
+
+debilemnte de tipado no se evaluara el dato hasta tiempo de ejecucion 
+
+-javascript distingue entre Mayùsculas y minusculas
+
+javascript es sencible a minusculas mayusculas
