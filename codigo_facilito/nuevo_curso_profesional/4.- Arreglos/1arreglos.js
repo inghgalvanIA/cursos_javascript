@@ -47,3 +47,19 @@ console.log(calificaciones)
 
 eliminado_pop = calificaciones.pop();
 console.log(eliminado_pop)
+
+/*
+El método indexOf() retorna el primer índice en el que se puede encontrar un elemento dado en el array, ó retorna -1 si el elemento no está presente.
+
+El método pop() elimina el último elemento de un array y lo devuelve. Este método cambia la longitud del array.
+
+El método push() añade uno o más elementos al final de un array y devuelve la nueva longitud del array.
+
+El método reverse() invierte el orden de los elementos de un array. El primer elemento pasa a ser el último y el último pasa a ser el primero.
+
+El método shift() elimina el primer elemento del array y lo retorna. Este método modifica la longitud del array.
+
+La propiedad length de un objeto de tipo array establece o devuelve la cantidad de elementos en esa matriz. El valor es un entero que siempre es numéricamente mayor que el índice más alto en arreglo.
+
+
+*/
