@@ -2,7 +2,10 @@
 
 let numero = [1,2,3,4,5];
 
-numeros.reduce(function(acumulador,elemento){
+let suma = numero.reduce(function(acumulador,elemento){
 console.log(acumulador);
-return 1
+return acumulador + elemento;
+;
 })
+
+console.log(suma)
