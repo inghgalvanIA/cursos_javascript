@@ -6,6 +6,7 @@ let suma = numero.reduce(function(acumulador,elemento){
 console.log(acumulador);
 return acumulador + elemento;
 ;
-})
+//nuestra funcion iniciara en 0
+},0)
 
 console.log(suma)
